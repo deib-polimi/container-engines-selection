@@ -1,0 +1,175 @@
+full_name,stargazers_count,description,html_url,type
+kubernetes/kubernetes,87109,Production-Grade Container Scheduling and Management,https://github.com/kubernetes/kubernetes,cloud
+moby/moby,62716,Moby Project - a collaborative project for the container ecosystem to assemble container-based systems,https://github.com/moby/moby,cloud
+netdata/netdata,58686,"Real-time performance monitoring, done right! https://www.netdata.cloud",https://github.com/netdata/netdata,cloud
+reduxjs/redux,57803,Predictable state container for JavaScript apps,https://github.com/reduxjs/redux,cloud
+localstack/localstack,39417,💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!,https://github.com/localstack/localstack,cloud
+Kong/kong,31597,🦍 The Cloud-Native API Gateway ,https://github.com/Kong/kong,cloud
+docker/compose,25393,Define and run multi-container applications with Docker,https://github.com/docker/compose,cloud
+trailofbits/algo,25306,Set up a personal VPN in the cloud,https://github.com/trailofbits/algo,cloud
+harness/drone,24766,"Drone is a Container-Native, Continuous Delivery Platform",https://github.com/harness/drone,cloud
+ajaxorg/ace,24270,Ace (Ajax.org Cloud9 Editor),https://github.com/ajaxorg/ace,cloud
+sickcodes/Docker-OSX,22113,Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.,https://github.com/sickcodes/Docker-OSX,cloud
+dotnet-architecture/eShopOnContainers,20222,"Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",https://github.com/dotnet-architecture/eShopOnContainers,cloud
+yeasy/docker_practice,20249,"Learn and understand Docker&Container technologies, with real DevOps practice!",https://github.com/yeasy/docker_practice,cloud
+envoyproxy/envoy,19290,Cloud-native high-performance edge/middle/service proxy,https://github.com/envoyproxy/envoy,cloud
+rancher/rancher,18846,Complete container management platform,https://github.com/rancher/rancher,cloud
+dapr/dapr,17468,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",https://github.com/dapr/dapr,cloud
+nginx-proxy/nginx-proxy,15886,Automated nginx proxy for Docker containers using docker-gen,https://github.com/nginx-proxy/nginx-proxy,cloud
+NVIDIA/nvidia-docker,14382,Build and run Docker containers leveraging NVIDIA GPUs,https://github.com/NVIDIA/nvidia-docker,cloud
+jina-ai/jina,14196,Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data,https://github.com/jina-ai/jina,cloud
+chrislusf/seaweedfs,14153,"SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",https://github.com/chrislusf/seaweedfs,cloud
+containers/podman,13284,Podman: A tool for managing OCI containers and pods.,https://github.com/containers/podman,cloud
+google/cadvisor,13262,Analyzes resource usage and performance characteristics of running containers.,https://github.com/google/cadvisor,cloud
+docker-slim/docker-slim,13101,DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source),https://github.com/docker-slim/docker-slim,cloud
+google/gvisor,12571,Application Kernel for Containers,https://github.com/google/gvisor,cloud
+bcicen/ctop,12594,Top-like interface for container metrics,https://github.com/bcicen/ctop,cloud
+ory/hydra,12380,"OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",https://github.com/ory/hydra,cloud
+docker/kitematic,12253,Visual Docker Container Management on Mac & Windows,https://github.com/docker/kitematic,cloud
+GoogleCloudPlatform/microservices-demo,11932,"Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",https://github.com/GoogleCloudPlatform/microservices-demo,cloud
+pulumi/pulumi,11923,"Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀",https://github.com/pulumi/pulumi,cloud
+GoogleContainerTools/jib,11657,🏗 Build container images for your Java applications.,https://github.com/GoogleContainerTools/jib,cloud
+sqshq/piggymetrics,11462,"Microservice Architecture with Spring Boot, Spring Cloud and Docker",https://github.com/sqshq/piggymetrics,cloud
+aquasecurity/trivy,11277,"Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues",https://github.com/aquasecurity/trivy,cloud
+emirpasic/gods,11270,"GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON",https://github.com/emirpasic/gods,cloud
+hashicorp/nomad,10801,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",https://github.com/hashicorp/nomad,cloud
+containerd/containerd,10669,An open and reliable container runtime,https://github.com/containerd/containerd,cloud
+containrrr/watchtower,10370,A process for automating Docker container base image updates. ,https://github.com/containrrr/watchtower,cloud
+GoogleContainerTools/kaniko,10098,Build Container Images In Kubernetes,https://github.com/GoogleContainerTools/kaniko,cloud
+kubesphere/kubesphere,9351,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",https://github.com/kubesphere/kubesphere,cloud
+future-architect/vuls,9094,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",https://github.com/future-architect/vuls,cloud
+opencontainers/runc,9067,CLI tool for spawning and running containers according to the OCI specification,https://github.com/opencontainers/runc,cloud
+rkt/rkt,8863,"[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.",https://github.com/rkt/rkt,cloud
+docker-mailserver/docker-mailserver,8792,"Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",https://github.com/docker-mailserver/docker-mailserver,cloud
+inversify/InversifyJS,8741,A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.,https://github.com/inversify/InversifyJS,cloud
+quay/clair,8629,Vulnerability Static Analysis for Containers,https://github.com/quay/clair,cloud
+spinnaker/spinnaker,8388,"Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",https://github.com/spinnaker/spinnaker,cloud
+cncf/landscape,8198,"🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.",https://github.com/cncf/landscape,cloud
+docker/docker-bench-security,7694,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.,https://github.com/docker/docker-bench-security,cloud
+lima-vm/lima,7679,"Linux virtual machines, typically on macOS, for running containerd",https://github.com/lima-vm/lima,cloud
+anbox/anbox,7536,Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system ,https://github.com/anbox/anbox,cloud
+openebs/openebs,7429,"Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.",https://github.com/openebs/openebs,cloud
+kylemanna/docker-openvpn,7396,🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA,https://github.com/kylemanna/docker-openvpn,cloud
+linuxkit/linuxkit,7306,"A toolkit for building secure, portable and lean operating systems for containers",https://github.com/linuxkit/linuxkit,cloud
+krallin/tini,7194,A tiny but valid `init` for containers,https://github.com/krallin/tini,cloud
+flannel-io/flannel,7118,"flannel is a network fabric for containers, designed for Kubernetes",https://github.com/flannel-io/flannel,cloud
+tektoncd/pipeline,7000,A cloud-native Pipeline resource.,https://github.com/tektoncd/pipeline,cloud
+draios/sysdig,6814,Linux system exploration and troubleshooting tool with first class support for containers,https://github.com/draios/sysdig,cloud
+anaibol/awesome-serverless,6762,":cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.",https://github.com/anaibol/awesome-serverless,cloud
+distribution/distribution,6645,"The toolkit to pack, ship, store, and deliver container content",https://github.com/distribution/distribution,cloud
+docker/machine,6492,Machine management for a container-centric world,https://github.com/docker/machine,cloud
+NginxProxyManager/nginx-proxy-manager,6529,"Docker container for managing Nginx proxy hosts with a simple, powerful interface",https://github.com/NginxProxyManager/nginx-proxy-manager,cloud
+rancher/os,6345,Tiny Linux distro that runs the entire OS as Docker containers,https://github.com/rancher/os,cloud
+cookpete/react-player,6296,"A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion",https://github.com/cookpete/react-player,cloud
+weaveworks/weave,6268,"Simple, resilient multi-host containers networking and more.",https://github.com/weaveworks/weave,cloud
+priyankavergadia/google-cloud-4-words,6294,The Google Cloud Developer's Cheat Sheet,https://github.com/priyankavergadia/google-cloud-4-words,cloud
+concourse/concourse,6255,Concourse is a container-based continuous thing-doer written in Go.,https://github.com/concourse/concourse,cloud
+bottlerocket-os/bottlerocket,6180,An operating system designed for hosting containers,https://github.com/bottlerocket-os/bottlerocket,cloud
+wercker/stern,5845,⎈ Multi pod and container log tailing for Kubernetes,https://github.com/wercker/stern,cloud
+docker-archive/classicswarm,5804,Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit,https://github.com/docker-archive/classicswarm,cloud
+testcontainers/testcontainers-java,5780,"Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",https://github.com/testcontainers/testcontainers-java,cloud
+dgkanatsios/CKAD-exercises,5701,A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation,https://github.com/dgkanatsios/CKAD-exercises,cloud
+apache/openwhisk,5616,Apache OpenWhisk is an open source serverless cloud platform,https://github.com/apache/openwhisk,cloud
+Alluxio/alluxio,5567,"Alluxio, data orchestration for analytics and machine learning in the cloud",https://github.com/Alluxio/alluxio,cloud
+Yelp/dumb-init,5554,A minimal init system for Linux containers,https://github.com/Yelp/dumb-init,cloud
+midwayjs/midway,5506,"🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈",https://github.com/midwayjs/midway,cloud
+fnproject/fn,5126,"The container native, cloud agnostic serverless platform.",https://github.com/fnproject/fn,cloud
+spotify/docker-gc,5095,INACTIVE: Docker garbage collection of containers and images,https://github.com/spotify/docker-gc,cloud
+duo-labs/cloudmapper,4959, CloudMapper helps you analyze your Amazon Web Services (AWS) environments.,https://github.com/duo-labs/cloudmapper,cloud
+pi-hole/docker-pi-hole,4839,Pi-hole in a docker container,https://github.com/pi-hole/docker-pi-hole,cloud
+alibaba/jvm-sandbox,4829,Real - time non-invasive AOP framework container based on JVM,https://github.com/alibaba/jvm-sandbox,cloud
+falcosecurity/falco,4694,Cloud Native Runtime Security,https://github.com/falcosecurity/falco,cloud
+stefanprodan/dockprom,4692,"Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager",https://github.com/stefanprodan/dockprom,cloud
+alibaba/pouch,4486,An Efficient Enterprise-class Container Engine,https://github.com/alibaba/pouch,cloud
+gliderlabs/logspout,4407,Log routing for Docker container logs,https://github.com/gliderlabs/logspout,cloud
+kedacore/keda,4406, KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes ,https://github.com/kedacore/keda,cloud
+nicolaka/netshoot,4388,a Docker + Kubernetes network trouble-shooting swiss-army container,https://github.com/nicolaka/netshoot,cloud
+ECSlidingViewController/ECSlidingViewController,4367,Customizable sliding view controller container.,https://github.com/ECSlidingViewController/ECSlidingViewController,cloud
+browserless/chrome,4361,"The browserless Chrome service in Docker. Run on our cloud, or bring your own.",https://github.com/browserless/chrome,cloud
+jwilder/dockerize,4317,Utility to simplify running applications in docker containers,https://github.com/jwilder/dockerize,cloud
+aws/containers-roadmap,4314,"This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). ",https://github.com/aws/containers-roadmap,cloud
+marcj/css-element-queries,4226,CSS Element-Queries aka Container Queries. High-speed element dimension/media queries in valid css.,https://github.com/marcj/css-element-queries,cloud
+BretFisher/udemy-docker-mastery,4192,"Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud",https://github.com/BretFisher/udemy-docker-mastery,cloud
+containernetworking/cni,4098,Container Network Interface - networking for Linux containers,https://github.com/containernetworking/cni,cloud
+cloud-custodian/cloud-custodian,4081,"Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",https://github.com/cloud-custodian/cloud-custodian,cloud
+mesosphere/marathon,4044,Deploy and manage containers (including Docker) on top of Apache Mesos at scale.,https://github.com/mesosphere/marathon,cloud
+mviereck/x11docker,4029,Run GUI applications and desktops in docker and podman containers. Focus on security.,https://github.com/mviereck/x11docker,cloud
+bridgecrewio/checkov,3993,"Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.",https://github.com/bridgecrewio/checkov,cloud
+nginx-proxy/docker-gen,3997,Generate files from docker container meta-data,https://github.com/nginx-proxy/docker-gen,cloud
+Azure/draft,3965,A tool for developers to create cloud-native applications on Kubernetes.,https://github.com/Azure/draft,cloud
+jpetazzo/pipework,3967,Software-Defined Networking tools for LXC (LinuX Containers),https://github.com/jpetazzo/pipework,cloud
+cri-o/cri-o,3905,Open Container Initiative-based implementation of Kubernetes Container Runtime Interface,https://github.com/cri-o/cri-o,cloud
+pkluz/PKRevealController,3904,"PKRevealController is a delightful view controller container for iOS, enabling you to present multiple controllers on top of one another.",https://github.com/pkluz/PKRevealController,cloud
+googleapis/google-cloud-python,3848,Google Cloud Client Library for Python,https://github.com/googleapis/google-cloud-python,cloud
+autofac/Autofac,3834,An addictive .NET IoC container,https://github.com/autofac/Autofac,cloud
+nextcloud/docker,3824,⛴ Docker image of Nextcloud,https://github.com/nextcloud/docker,cloud
+phodal/awesome-iot,3559,"Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform",https://github.com/phodal/awesome-iot,iot
+alphaSeclab/awesome-reverse-engineering,3232,Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos),https://github.com/alphaSeclab/awesome-reverse-engineering,iot
+WasmEdge/WasmEdge,2920,"WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",https://github.com/WasmEdge/WasmEdge,iot
+HQarroum/awesome-iot,2394,🤖 A curated list of awesome Internet of Things projects and resources.,https://github.com/HQarroum/awesome-iot,iot
+mainflux/mainflux,1741,Industrial IoT Messaging and Device Management Platform,https://github.com/mainflux/mainflux,iot
+gcgarner/IOTstack,1436,docker stack for getting started on IOT on the Raspberry PI,https://github.com/gcgarner/IOTstack,iot
+Azure/iotedge,1294,The IoT Edge OSS project,https://github.com/Azure/iotedge,iot
+kuzzleio/kuzzle,1168,"Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -",https://github.com/kuzzleio/kuzzle,iot
+balena-io/open-balena,831,Open source software to manage connected IoT devices at scale,https://github.com/balena-io/open-balena,iot
+aws/aws-iot-device-sdk-embedded-C,797,SDK for connecting to AWS IoT from a device using embedded C.,https://github.com/aws/aws-iot-device-sdk-embedded-C,iot
+fkie-cad/awesome-embedded-and-iot-security,785,A curated list of awesome embedded and IoT security resources.,https://github.com/fkie-cad/awesome-embedded-and-iot-security,iot
+ostreedev/ostree,688,Operating system and container binary deployment and upgrades,https://github.com/ostreedev/ostree,iot
+senthilrch/kube-fledged,664,"A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly",https://github.com/senthilrch/kube-fledged,iot
+apache/plc4x,592,PLC4X The Industrial IoT adapter,https://github.com/apache/plc4x,iot
+balena-os/balena-engine,586,"Moby-based Container Engine for Embedded, IoT, and Edge uses",https://github.com/balena-os/balena-engine,iot
+openremote/openremote,533,"100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data",https://github.com/openremote/openremote,iot
+Samsung/TizenRT,437,TizenRT is a lightweight RTOS-based platform to support low-end IoT devices,https://github.com/Samsung/TizenRT,iot
+Azure/Industrial-IoT,376,Azure Industrial IoT Platform,https://github.com/Azure/Industrial-IoT,iot
+itead/IoTgo,365,Open source IoT cloud service,https://github.com/itead/IoTgo,iot
+emqx/nanomq,334,Nano MQTT Broker - An Ultra-light and Blazing-fast MQTT Broker for IoT Edge,https://github.com/emqx/nanomq,iot
+Azure/opendigitaltwins-dtdl,293,IoT Plug And Play,https://github.com/Azure/opendigitaltwins-dtdl,iot
+netbeast/dashboard,287,:star2:  Create IoT applications. Wire devices together regardless their brand or technology.,https://github.com/netbeast/dashboard,iot
+noopkat/electric-io,278,⚡️🌋🌔 The cutest IoT dashboard of your dreams ☁️,https://github.com/noopkat/electric-io,iot
+cjimti/iotwifi,268,Raspberry Pi (arm) wifi configuration container. Configure and control wifi connectivity with a JSON based REST api.,https://github.com/cjimti/iotwifi,iot
+ernoaapa/eliot,262,Open source system for managing containerized applications in IoT device,https://github.com/ernoaapa/eliot,iot
+Azure/azure-iot-sdk-node,231,A Node.js SDK for connecting devices to Microsoft Azure IoT services,https://github.com/Azure/azure-iot-sdk-node,iot
+Azure/azure-iot-protocol-gateway,212,Azure IoT protocol gateway enables protocol translation for Azure IoT Hub,https://github.com/Azure/azure-iot-protocol-gateway,iot
+NTAP/quant,210,QUIC implementation for POSIX and IoT platforms,https://github.com/NTAP/quant,iot
+openhab/openhab-docker,183,Repository for building Docker containers for openHAB,https://github.com/openhab/openhab-docker,iot
+helmut-hoffer-von-ankershoffen/jetson,181,"Helmut Hoffer von Ankershoffen experimenting with arm64 based NVIDIA Jetson (Nano and AGX Xavier) edge devices running Kubernetes (K8s) for machine learning (ML) including Jupyter Notebooks, TensorFlow Training and TensorFlow Serving using CUDA for smart IoT.",https://github.com/helmut-hoffer-von-ankershoffen/jetson,iot
+Azure/ai-toolkit-iot-edge,179,AI Toolkit for Azure IoT Edge,https://github.com/Azure/ai-toolkit-iot-edge,iot
+microsoft/vscode-iot-workbench,169,Azure IoT Device Workbench for Visual Studio Code,https://github.com/microsoft/vscode-iot-workbench,iot
+RubensZimbres/Repo-2018,165,Deep Learning Summer School + Tensorflow + OpenCV cascade training + YOLO + COCO + CycleGAN + AWS EC2 Setup + AWS IoT Project + AWS SageMaker + AWS API Gateway + Raspberry Pi3 Ubuntu Core,https://github.com/RubensZimbres/Repo-2018,iot
+Azure/azure-iot-pcs-remote-monitoring-dotnet,162,Azure IoT .NET solution for Remote Monitoring,https://github.com/Azure/azure-iot-pcs-remote-monitoring-dotnet,iot
+rash-sh/rash,157,Declarative shell scripting container oriented,https://github.com/rash-sh/rash,iot
+Azure-Samples/Custom-vision-service-iot-edge-raspberry-pi,157,Sample showing how to deploy a AI model from the Custom Vision service to a Raspberry Pi 3 device using Azure IoT Edge,https://github.com/Azure-Samples/Custom-vision-service-iot-edge-raspberry-pi,iot
+NVIDIA-AI-IOT/jetson-cloudnative-demo,141,Multi-container demo for Jetson Xavier NX and Jetson AGX Xavier,https://github.com/NVIDIA-AI-IOT/jetson-cloudnative-demo,iot
+vinitshahdeo/Water-Monitoring-System,140,Water Monitoring System is an IOT based Liquid Level Monitoring system that has mechanisms to keep the user alerted in case of liquid overflow or when tank depletes.,https://github.com/vinitshahdeo/Water-Monitoring-System,iot
+mudler/luet,140,:package: :whale: 0-dependency Container-based Package Manager,https://github.com/mudler/luet,iot
+idavis/jetson-containers,133,Running CUDA containers on the Jetson platform,https://github.com/idavis/jetson-containers,iot
+Azure-Samples/NVIDIA-Deepstream-Azure-IoT-Edge-on-a-NVIDIA-Jetson-Nano,134,This is a sample showing how to do real-time video analytics with NVIDIA DeepStream connected to Azure via Azure IoT Edge. It uses a NVIDIA Jetson Nano device that can process up to 8 real-time video streams concurrently.,https://github.com/Azure-Samples/NVIDIA-Deepstream-Azure-IoT-Edge-on-a-NVIDIA-Jetson-Nano,iot
+Azure/azure-iotedge,130,The Azure IoT Edge product,https://github.com/Azure/azure-iotedge,iot
+Azure/iotedgedev,126,The Azure IoT Edge Dev Tool greatly simplifies your Azure IoT Edge development process. It has everything you need to get started and helps with your day-to-day Edge development.,https://github.com/Azure/iotedgedev,iot
+qnap-dev/qnap-qiot-sdks,109,QNAP QIoT - quickly structure your IoT environment and deployment,https://github.com/qnap-dev/qnap-qiot-sdks,iot
+riclolsen/json-scada,106,A portable and scalable SCADA/IIoT-I4.0 platform centered on the MongoDB database server.,https://github.com/riclolsen/json-scada,iot
+hainingzhang/articles,104,"Articles on technical topics such as blockchain, container and IoT.",https://github.com/hainingzhang/articles,iot
+alibaba/AliOS-Things-Linux-Edition,102,AliOS Things Linux Edition released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT).,https://github.com/alibaba/AliOS-Things-Linux-Edition,iot
+OlivierLD/raspberry-coffee,103,"JVM related (Java, Groovy, Scala, Kotlin, etc) samples for the Raspberry PI, relying on PI4J. IoT and friends. ",https://github.com/OlivierLD/raspberry-coffee,iot
+Azure/device-simulation-dotnet,101,IoT Simulation service,https://github.com/Azure/device-simulation-dotnet,iot
+containernetworking/cni,4098,Container Network Interface - networking for Linux containers,https://github.com/containernetworking/cni,hpc
+genuinetools/img,3583,"Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.",https://github.com/genuinetools/img,hpc
+openhpc/ohpc,630,"OpenHPC Integration, Packaging, and Test Repo",https://github.com/openhpc/ohpc,hpc
+BioContainers/containers,505,Bioinformatics containers,https://github.com/BioContainers/containers,hpc
+tlkh/ai-lab,415,All-in-one AI container for rapid prototyping,https://github.com/tlkh/ai-lab,hpc
+NVIDIA/enroot,346,A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.,https://github.com/NVIDIA/enroot,hpc
+NVIDIA/hpc-container-maker,338,HPC Container Maker,https://github.com/NVIDIA/hpc-container-maker,hpc
+NERSC/shifter,323,Shifter - Linux Containers for HPC,https://github.com/NERSC/shifter,hpc
+Azure/batch-shipyard,260,Simplify HPC and Batch workloads on Azure,https://github.com/Azure/batch-shipyard,hpc
+kubeflow/mpi-operator,255,"Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.)",https://github.com/kubeflow/mpi-operator,hpc
+kube-HPC/hkube,246,🐟 High Performance Computing over Kubernetes - Core Repo 🎣,https://github.com/kube-HPC/hkube,hpc
+Azure-Samples/azure-batch-samples,237,Azure Batch and HPC Code Samples,https://github.com/Azure-Samples/azure-batch-samples,hpc
+hpc/charliecloud,238,Lightweight user-defined software stacks for high-performance computing.,https://github.com/hpc/charliecloud,hpc
+numforge/laser,233,"The HPC toolbox: fused matrix multiplication, convolution, data-parallel strided tensor primitives, OpenMP facilities, SIMD, JIT Assembler, CPU detection, state-of-the-art vectorized BLAS for floats and integers",https://github.com/numforge/laser,hpc
+sylabs/singularity,214,"SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.",https://github.com/sylabs/singularity,hpc
+gpuhackathons-org/gpubootcamp,209,This repository consists for gpu bootcamp material for HPC and AI,https://github.com/gpuhackathons-org/gpubootcamp,hpc
+facebookresearch/dietgpu,195,"GPU implementation of a fast generalized ANS (asymmetric numeral system) entropy encoder and decoder, with extensions for lossless compression of numerical and other data types in HPC/ML applications.",https://github.com/facebookresearch/dietgpu,hpc
+apptainer/apptainer,196,Apptainer: Application containers for Linux,https://github.com/apptainer/apptainer,hpc
+dash-project/dash,139,"DASH, the C++ Template Library for Distributed Data Structures with Support for Hierarchical Locality for HPC and Data-Driven Science",https://github.com/dash-project/dash,hpc
+mbdevpl/transpyle,103,"HPC-oriented transpiler for C, C++, Cython, Fortran, OpenCL and Python.",https://github.com/mbdevpl/transpyle,hpc
+sylabs/singularity-cri,101,The Singularity implementation of the Kubernetes Container Runtime Interface,https://github.com/sylabs/singularity-cri,hpc
